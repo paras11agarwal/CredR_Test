@@ -38,7 +38,6 @@ FAQ-
 	Body:- { "source" :{ "x" :-3, "y" :-5}, "destination": { "x":-3, "y":-6} }
 	4) Tick:- http://localhost:8080/api/tick
 
-If you need assistance at any step, please contact Siddhant Tanpure at sbtanpur@asu.edu.
 Thank you! Enjoy!
 
 
